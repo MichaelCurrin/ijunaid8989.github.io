@@ -6,4 +6,4 @@ end
 
 
 gem 'pathutil', :github => 'motevets/pathutil', :branch => 'fix-issue-4'
-gem "webrick", "~> 1.7"
+gem "webrick"
